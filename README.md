@@ -273,7 +273,7 @@ with sync_playwright() as p:
             browser.close()
             browser = p.chromium.launch(headless=True)  # 重启浏览器
             page = browser.new_page()  # 创建新页面
-            page.goto('https://www.dingxiang-inc.com/business/captcha')  # 重新访问目标网址
+            page.goto('需要抓取的网址')  # 重新访问目标网址
             
             # 重新执行点击操作，定位并点击特定元素
             page.locator('xpath=/html/body/div[1]/div[2]/div/div[6]/div/div[2]/div[1]/div/ul/li[2]').click()
