@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "points": [
+        [
+          325.3956834532372,
+          307.76978417266184
+        ],
+        [
+          418.20143884892093,
+          509.2086330935252
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\65.png",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}

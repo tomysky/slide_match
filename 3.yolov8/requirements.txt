@@ -1,0 +1,3 @@
+#yolov8设置文件路径：C:\Users\Administrator\AppData\Roaming\Ultralytics
+
+#pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
